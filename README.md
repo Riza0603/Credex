@@ -34,7 +34,7 @@ A responsive, modern, single-page marketing website for the fictional startup **
 
 ## 📄 Live Demo
 [🔗 View Deployed Site Here](#)  
-*(Add your Vercel/Netlify link after deployment)*
+[Link](https://wondrous-mochi-851ac2.netlify.app/)
 
 ## ✅ How to Run Locally
 ```bash
